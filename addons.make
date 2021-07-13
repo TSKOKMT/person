@@ -1,0 +1,12 @@
+ofxOpenCv
+ofxCv
+ofxGui
+ofxKinect
+ofxOsc
+ofxQuadWarp
+ofxSharedMemory
+ofxSyphon
+ofxTskokmtMath
+ofxTskokmtTool
+ofxTskokmtTranslator
+ofxXmlSettings
